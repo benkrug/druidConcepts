@@ -1,2 +1,3 @@
 # Introduction
 
+... this gitbook was an idea that hasn't gone farther yet ...
